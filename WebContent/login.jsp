@@ -65,7 +65,7 @@
 							<input type="submit" value="Log In" class="form-control btn btn-success"><br>
 						</div>
 					</form>
-					<a href="reg.jsp" style="color:white;">Click here to create an account</a><br><br><br>
+					<a href="member" style="color:white;">Click here to create an account</a><br><br><br>
 				</div>
 			</div>
 			<div class="col-md-4">
